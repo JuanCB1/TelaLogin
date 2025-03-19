@@ -1,4 +1,0 @@
-Juan,Juan@gmail.com,123
-Juan,Juan@gmail.com,123
-123,Juan@gmail.com,123
-teste,teste@gmail.com,123
