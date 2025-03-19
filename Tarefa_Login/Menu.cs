@@ -17,7 +17,7 @@ namespace Tarefa_Login
         public Menu()
         {
             InitializeComponent();
-            timer1.Interval = 1000;
+            timer1.Interval = 20000;
             timer1.Start();
         }
 

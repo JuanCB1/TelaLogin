@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|c:\\users\\juanc\\desktop\\project\\tarefa_login\\telalogin\\tarefa_login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|solutionrelative:tarefa_login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|c:\\users\\juanc\\desktop\\project\\tarefa_login\\telalogin\\tarefa_login\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|solutionrelative:tarefa_login\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|c:\\users\\juanc\\desktop\\project\\tarefa_login\\telalogin\\tarefa_login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|solutionrelative:tarefa_login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|c:\\users\\juanc\\desktop\\project\\tarefa_login\\telalogin\\tarefa_login\\conta.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|solutionrelative:tarefa_login\\conta.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|c:\\users\\juanc\\desktop\\project\\tarefa_login\\telalogin\\tarefa_login\\conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242D3F41-BA45-4858-A7F8-7C4DEDFC9A4A}|Tarefa_Login\\Tarefa_Login.csproj|solutionrelative:tarefa_login\\conta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Menu.cs",
+              "RelativeDocumentMoniker": "Tarefa_Login\\Menu.cs",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Menu.cs",
+              "RelativeToolTip": "Tarefa_Login\\Menu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:18:58.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Tarefa_Login\\Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Menu.Designer.cs",
+              "RelativeToolTip": "Tarefa_Login\\Menu.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwHUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:18:55.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Tarefa_Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Form1.cs",
+              "RelativeToolTip": "Tarefa_Login\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:18:44.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conta.resx",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Conta.resx",
+              "RelativeDocumentMoniker": "Tarefa_Login\\Conta.resx",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Conta.resx",
+              "RelativeToolTip": "Tarefa_Login\\Conta.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-19T23:18:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Conta.Designer.cs",
+              "RelativeDocumentMoniker": "Tarefa_Login\\Conta.Designer.cs",
+              "ToolTip": "C:\\Users\\juanc\\Desktop\\Project\\Tarefa_Login\\TelaLogin\\Tarefa_Login\\Conta.Designer.cs",
+              "RelativeToolTip": "Tarefa_Login\\Conta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:18:27.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

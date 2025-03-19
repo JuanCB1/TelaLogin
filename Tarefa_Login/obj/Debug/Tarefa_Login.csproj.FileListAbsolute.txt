@@ -10,3 +10,15 @@ C:\Users\juanc\Desktop\Project\Tarefa_Login\Tarefa_Login\obj\Debug\Tarefa_Login.
 C:\Users\juanc\Desktop\Project\Tarefa_Login\Tarefa_Login\obj\Debug\Tarefa_Login.exe
 C:\Users\juanc\Desktop\Project\Tarefa_Login\Tarefa_Login\obj\Debug\Tarefa_Login.pdb
 C:\Users\juanc\Desktop\Project\Tarefa_Login\Tarefa_Login\obj\Debug\Tarefa_Login.Menu.resources
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\bin\Debug\Tarefa_Login.exe.config
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\bin\Debug\Tarefa_Login.exe
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\bin\Debug\Tarefa_Login.pdb
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.csproj.AssemblyReference.cache
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.Conta.resources
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.Form1.resources
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.Menu.resources
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.Properties.Resources.resources
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.csproj.GenerateResource.cache
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.exe
+C:\Users\juanc\Desktop\Project\Tarefa_Login\TelaLogin\Tarefa_Login\obj\Debug\Tarefa_Login.pdb
